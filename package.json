@@ -1,0 +1,10 @@
+{
+  "name": "campo-minado",
+  "version": "1.0.0",
+  "description": "Campo minado 18x14 com 40 bombas e casos de teste em JavaScript",
+  "main": "campo-minado.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
